@@ -123,14 +123,14 @@ This section will help you track the progress of your transactions and operation
 - **Transaction Hash:** [2276d262c6720fc86f831f32266f9a6273fc6f4244a644491808be9403689d02](https://stellar.expert/explorer/testnet/tx/2276d262c6720fc86f831f32266f9a6273fc6f4244a644491808be9403689d02)
 - **Preview:**
 
-  ![Liquidity Pool Creation](https://github.com/Adaobi-Chuks/Stellar-Challenge/tree/main/public/LiquidityPoolCreation.png)
+  ![Liquidity Pool Creation](public/LiquidityPoolCreation.png)
 
 ### Withdrawal from Liquidity Pool
 
 - **Transaction Hash:** [231ae728ec565ab2b7017b29b515baa8f81456140600d9433cd6243901a68aeb](https://stellar.expert/explorer/testnet/tx/231ae728ec565ab2b7017b29b515baa8f81456140600d9433cd6243901a68aeb)
 - **Preview:**
 
-  ![Withdrawal from Liquidity Pool](https://github.com/Adaobi-Chuks/Stellar-Challenge/tree/main/public/WithdrawalfromLiquidityPool.png)
+  ![Withdrawal from Liquidity Pool](public/WithdrawalfromLiquidityPool.png)
 
 ## Troubleshooting
 
