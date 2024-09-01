@@ -12,6 +12,7 @@ This application allows users to interact with the Stellar blockchain to generat
   - [Creating a Liquidity Pool](#creating-a-liquidity-pool)
   - [Withdrawing from a Liquidity Pool](#withdrawing-from-a-liquidity-pool)
 - [Log Section](#log-section)
+- [Proof of Transactions](#proof-of-transactions)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
@@ -114,6 +115,22 @@ The log section at the bottom of the interface provides real-time updates on the
 - Withdrawals
 
 This section will help you track the progress of your transactions and operations.
+
+## Proof of Transactions
+
+### Liquidity Pool Creation
+
+- **Transaction Hash:** [2276d262c6720fc86f831f32266f9a6273fc6f4244a644491808be9403689d02](https://stellar.expert/explorer/testnet/tx/2276d262c6720fc86f831f32266f9a6273fc6f4244a644491808be9403689d02)
+- **Preview:**
+
+  ![Liquidity Pool Creation](https://github.com/Adaobi-Chuks/Stellar-Challenge/tree/main/public/LiquidityPoolCreation.png)
+
+### Withdrawal from Liquidity Pool
+
+- **Transaction Hash:** [231ae728ec565ab2b7017b29b515baa8f81456140600d9433cd6243901a68aeb](https://stellar.expert/explorer/testnet/tx/231ae728ec565ab2b7017b29b515baa8f81456140600d9433cd6243901a68aeb)
+- **Preview:**
+
+  ![Withdrawal from Liquidity Pool](https://github.com/Adaobi-Chuks/Stellar-Challenge/tree/main/public/WithdrawalfromLiquidityPool.png)
 
 ## Troubleshooting
 
